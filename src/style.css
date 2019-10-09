@@ -1,0 +1,129 @@
+.hide {
+  display: none;
+}
+body {
+  background-color:#c99c42;
+  background-image:url(img/fcc.jpg);
+
+}
+h1{
+  font-family: 'Berkshire Swash', cursive;
+  text-align: center;
+  font-size: 100px;
+  color: #660404;
+}
+h2{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 50px;
+}
+p{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 25px;
+  text-align: justify;
+  padding: 20px;
+  line-height : 2em;
+}
+.tex-color{
+  color:#660404;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 22px;
+}
+.text-question{
+  color:#660404;
+  font-size: 45px;
+}
+.text-info{
+  color:#660404;
+  font-size: 20px;
+}
+.button-styles{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 20px;
+  color:#660404;
+  background-color:#ead9cb;
+  border-radius: 6px;
+  border: 2px solid #660404 ;
+  padding: 10px;
+  cursor: pointer;
+  margin-top: 5px;
+  margin-left: 20%;
+}
+.button-styles:hover{
+  background-color: #660404;
+  color:#ead9cb;
+}
+.msg-style{
+  color:#660404;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 30px;
+}
+.box-msg-style {
+  background-color:#e7a61aaf ;
+  border: 2px solid #660404;
+  color: #660404;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 25px;
+  margin: 10px;
+  padding: 8rem;
+  border-radius: 10px;
+  margin-left: 10%;
+} 
+.box-msg-styletwo {
+  background-color:#976700d5 ;
+  border: 2px solid #660404;
+  color: #660404;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 25px;
+  padding: 8rem;
+  display: inline-block;
+  border-radius: 10px;
+  margin-left: 3%;
+  margin-block-end: 12px;;
+  width: 17rem;
+  height: 60px;
+} 
+.text-offset{
+  color:#660404;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 30px;
+  margin-left:60%;
+}
+.content-offset{
+  font-family: 'Berkshire Swash', cursive;
+  color:#660404;
+  font-size: 20px;
+  background-color:#e7a61a9f ;
+  border: 2px solid #660404;
+  width: 35px;
+  border-radius: 6px;
+  padding: 10px;
+  margin-left: 90%;
+}
+.video-edit{
+  width: 50%; 
+  height: 25rem;
+  display:block;
+  margin: auto;
+}
+.main-button{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 20px;
+  color: #660404;
+  background-color:#ead9cb;
+  border-radius: 6px;
+  border: 2px solid #660404 ;
+  padding: 20px;
+  cursor: pointer;
+  margin-left: 80%;
+  margin-top: 20px;
+}
+.main-button:hover{
+  background-color: #660404 ;
+  color: #ead9cb;
+}
+.footer-style{
+  color:#660404;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 24px;
+  margin-top: 3%;
+}
