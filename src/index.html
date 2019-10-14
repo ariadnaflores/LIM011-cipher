@@ -3,15 +3,16 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Cifrado César</title>
+  <title>Cifra y Aprende</title>
   <link rel="stylesheet" href="style.css" />
   <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 
 <body>
   <!--Primera parte-->
-  <div id="onewindow" class="">
-    <h1 class="text-color">Cifrado César</h1>
+  <div id="primera-ventana" class="">
+    <h1 class="text-color">Cifra y Aprende</h1>
     <h2 class="text-question">¿Qué es?</h2>
     <p class="text-info">En criptografía, el cifrado César, también conocido como cifrado por desplazamiento, código de
       César o desplazamiento de César, es una de las técnicas decodificación más simples y más usadas. Es un tipo de
@@ -21,19 +22,19 @@
       debe su nombre, según Suetonio, a Julio César, que lo usaba para comunicarse con sus generales.</p>
     <iframe class="video-edit" src="https://www.youtube.com/embed/sMOZf4GN3oc?start=3" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <button id="btnProof" class="main-button">Prueba tú mism@</button>
+    <button id="btnPrueba" class="boton-principal">Prueba tú mism@</button>
   </div>
   <!--Segunda ventana-->
-  <div id="secondwindow" class="hide">
-    <h1 class="text-color">Cifrado César</h1>
+  <div id="segunda-ventana" class="hide">
+    <h1 class="text-color">Cifra y Aprende</rh1>
     <label class="text-offset">Ingrese N° de desplazamiento:</label>
     <input type="number" id="offset" class="content-offset">
     <p class="msg-style">Ingresa el mensaje que deseas:</p>
-    <textarea id="boxMessage" class="box-msg-style" placeholder="Escribe aquí..."></textarea>
-    <p id="boxMessageTwo" class="box-msg-styletwo"></p>
-    <button id="btnCifrar" class="button-styles">Cifrar</button>
-    <button id="btnDescifrar" class="button-styles">Descifrar</button>
-    <button id="btnLimpiar" class="button-styles">Limpiar</button>
+    <textarea id="caja-mensaje" class="estilo-caja-mensaje" placeholder="Escribe aquí..."></textarea>
+    <p id="caja-resultado" class="estilo-caja-resultado"></p>
+    <button id="btnCifrar" class="estilo-boton">Cifrar</button>
+    <button id="btnDescifrar" class="estilo-boton">Descifrar</button>
+    <button id="btnLimpiar" class="estilo-boton">Limpiar</button>
   </div>
   <footer class="footer-style">Creado por: Ariadna Flores Vilchez</footer>
   <script src="cipher.js"></script>

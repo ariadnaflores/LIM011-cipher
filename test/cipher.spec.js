@@ -1,16 +1,17 @@
+/* eslint-disable max-len */
 global.window = global;
 require('../src/cipher');
-
+/* global cipher */
 describe('cipher', () => {
   it('debería ser un object', () => {
     expect(typeof cipher).toBe('object');
   });
-  describe('cipher.encode', () => {
+  describe('cipher.cipher', () => {
     it('debería ser una función', () => {
-      expect(typeof cipher.encode).toBe('function');
+      expect(typeof cipher.cipher).toBe('function');
     });
     it('debería retornar "HIJKLMNOPQRSTUVWXYZABCDEFG" para "ABCDEFGHIJKLMNOPQRSTUVWXYZ" con offset 33', () => {
-      //escribe aquí tus test
+      expect(cipher.cipher('ABCDEFGHIJK', 33)).toBe('HIJKLMNOPQR');
     });
     // Hacker edition
     //
@@ -32,14 +33,14 @@ describe('cipher', () => {
     // it('debería retornar " !@" para " !@"', () => {
     //   expect(cipher.encode(33, ' !@')).toBe(' !@');
     // });
-  })
-  describe('cipher.decode', () => {
+  });
+  describe('cipher.decipher', () => {
     it('debería ser una función', () => {
-      expect(typeof cipher.decode).toBe('function');
+      expect(typeof cipher.decipher).toBe('function');
     });
     it('debería retornar "ABCDEFGHIJKLMNOPQRSTUVWXYZ" para "HIJKLMNOPQRSTUVWXYZABCDEFG" con offset 33', () => {
-     //escribe aquí tus test
-    }); 
+      expect(cipher.decipher('HIJKLMNOPQR', 33)).toBe('ABCDEFGHIJK');
+    });
     //
     // Hacker edition
     //

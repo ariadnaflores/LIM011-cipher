@@ -36,7 +36,7 @@ p{
   color:#660404;
   font-size: 20px;
 }
-.button-styles{
+.estilo-boton{
   font-family: 'Berkshire Swash', cursive;
   font-size: 20px;
   color:#660404;
@@ -48,7 +48,7 @@ p{
   margin-top: 5px;
   margin-left: 20%;
 }
-.button-styles:hover{
+.estilo-boton:hover{
   background-color: #660404;
   color:#ead9cb;
 }
@@ -57,22 +57,22 @@ p{
   font-family: 'Berkshire Swash', cursive;
   font-size: 30px;
 }
-.box-msg-style {
+.estilo-caja-mensaje {
   background-color:#e7a61aaf ;
   border: 2px solid #660404;
   color: #660404;
-  font-family: 'Berkshire Swash', cursive;
+  font-family: 'Montserrat', sans-serif;
   font-size: 25px;
   margin: 10px;
   padding: 8rem;
   border-radius: 10px;
   margin-left: 10%;
 } 
-.box-msg-styletwo {
+.estilo-caja-resultado {
   background-color:#976700d5 ;
   border: 2px solid #660404;
   color: #660404;
-  font-family: 'Berkshire Swash', cursive;
+  font-family: 'Montserrat', sans-serif;
   font-size: 25px;
   padding: 8rem;
   display: inline-block;
@@ -105,7 +105,7 @@ p{
   display:block;
   margin: auto;
 }
-.main-button{
+.boton-principal{
   font-family: 'Berkshire Swash', cursive;
   font-size: 20px;
   color: #660404;
@@ -117,7 +117,7 @@ p{
   margin-left: 80%;
   margin-top: 20px;
 }
-.main-button:hover{
+.boton-principal:hover{
   background-color: #660404 ;
   color: #ead9cb;
 }
