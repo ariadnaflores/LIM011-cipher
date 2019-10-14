@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Cifra y Aprende
 
 * Un título con el nombre de tu proyecto.
@@ -12,7 +12,6 @@
   3. Luego colocarás la foto de tu primer prototipo en papel.
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
   5. Imagen del prototipo final.
-***
 Mi proyecto trata acerca del cifrado césar es una página educativa que se basa en 
 =======
 # LIM011-cipher
@@ -40,10 +39,10 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 ​
 ### Javascript
 ​
-- [Si ] Manipulación de strings.
+- [No ] Manipulación de strings.
 - [No ] Uso de condicionales (if-else | switch).
 - [Si ] Uso de bucles (for | do-while).	
-- [Si ] Uso de funciones (parámetros | argumentos | valor de retorno).
+- [ ] Uso de funciones (parámetros | argumentos | valor de retorno).
 - [Si ] Declaración correcta de variables (const & let).
 ​
 ### Testing
@@ -56,4 +55,4 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 ### Buenas prácticas de desarrollo
 - [No ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
 - [Si ] Uso de linter para seguir buenas prácticas (ESLINT).
->>>>>>> 62c421669aed54371705b22f5d27cb2949cb0542
+
