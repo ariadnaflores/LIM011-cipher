@@ -7,9 +7,9 @@
 
 ## Investigación UX:
 
-*Mis usuarios son personas de 13 años a más escolares en su mayoría pero en general cualquier persona puede usar esta web, el objetivo concreto de esta web es darle la facilidad al usuario de poder hacer el cifrado y descifrado sin ningún inconveniente, además de enseñar como es el funcionamiento del cifrado y así establecer un espacio de interacción con mis usuarios.
-** Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
-** Luego colocarás la foto de tu primer prototipo en papel.
+* Mis usuarios son personas de 13 años a más escolares en su mayoría pero en general cualquier persona puede usar esta web, el objetivo concreto de esta web es darle la facilidad al usuario de poder hacer el cifrado y descifrado sin ningún inconveniente, además de enseñar como es el funcionamiento del cifrado y así establecer un espacio de interacción con mis usuarios.
+## Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
+## Luego colocarás la foto de tu primer prototipo en papel.
 ## Resumen del feedback recibido indicando las mejoras a realizar:
  - Arreglar el contraste de colores
  - Los botones más juntos
