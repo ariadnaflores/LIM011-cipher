@@ -10,14 +10,14 @@
 ## Investigación UX:
 
 * Mis usuarios son personas de 13 años a más escolares en su mayoría pero en general cualquier persona puede usar esta web, el objetivo concreto de esta web es darle la facilidad al usuario de poder hacer el cifrado y descifrado sin ningún inconveniente, además de enseñar como es el funcionamiento del cifrado y así establecer un espacio de interacción con mis usuarios.
-## Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
-## Luego colocarás la foto de tu primer prototipo en papel.
+## Primer prototipo en papel.
+
 ## Resumen del feedback recibido indicando las mejoras a realizar:
  - Arreglar el contraste de colores
  - Los botones más juntos
  - El número de desplazamiento debería ir abajo
  - La letra debería ser más visible
-## Imagen del prototipo
+## Imagen del prototipo en balsamiq
 ![prototipadop1](https://user-images.githubusercontent.com/51058777/66798650-50590700-eed4-11e9-8eeb-863735d660d2.png)
 ![prototipadop2](https://user-images.githubusercontent.com/51058777/66798654-54852480-eed4-11e9-9a2d-cd0505ca4b6f.png)
 
