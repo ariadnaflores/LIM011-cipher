@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Cifra y Aprende
 
 * Un título con el nombre de tu proyecto.
