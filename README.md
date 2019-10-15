@@ -2,7 +2,9 @@
 # Cifra y Aprende
 
 * Mi proyecto se basa en personas que tienen problemas para entender el cifrado césar con está página se les facilitara el poder cifrar y descifrar algún texto o palabra con el cúal tengan conflicto a traves de la experimentación, el diseño estuvo pensado para representar la historia del cifrado su origen, con una paleta de colores tanto claros como oscuros que sugirieran antiguedad, algo clásico y enseñanza, además de ser atractivo para las personas que lo usaran, pues es muy intuitivo y de fácil uso por lo que no requiere un registro previo.
+
 ![parteuno](https://user-images.githubusercontent.com/51058777/66794048-9a86bc00-eec5-11e9-9701-f0d0888bb5ca.png)
+
 ![partedos](https://user-images.githubusercontent.com/51058777/66794055-9d81ac80-eec5-11e9-9189-534f6489ee7d.png)
 
 ## Investigación UX:
