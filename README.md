@@ -5,7 +5,7 @@
 
 ![parteuno](https://user-images.githubusercontent.com/51058777/66794048-9a86bc00-eec5-11e9-9701-f0d0888bb5ca.png)
 
-![partedos](https://user-images.githubusercontent.com/51058777/66794055-9d81ac80-eec5-11e9-9189-534f6489ee7d.png)
+![partedosss](https://user-images.githubusercontent.com/51058777/66844906-c0977500-ef34-11e9-956b-06b683adf0aa.png)
 
 ## Investigación UX:
 
