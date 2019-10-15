@@ -11,10 +11,10 @@
 ** Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
 ** Luego colocarás la foto de tu primer prototipo en papel.
 ## Resumen del feedback recibido indicando las mejoras a realizar:
- **-Arreglar el contraste de colores
-  -Los botones más juntos
-  -El número de desplazamiento debería ir abajo
-  -La letra debería ser más visible
+ - Arreglar el contraste de colores
+ - Los botones más juntos
+ - El número de desplazamiento debería ir abajo
+ - La letra debería ser más visible
   
 =======
 # LIM011-cipher
