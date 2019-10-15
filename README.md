@@ -19,6 +19,7 @@
  - La letra debería ser más visible
 ## Imagen del prototipo en balsamiq
 ![prototipadop1](https://user-images.githubusercontent.com/51058777/66798650-50590700-eed4-11e9-8eeb-863735d660d2.png)
+
 ![prototipadop2](https://user-images.githubusercontent.com/51058777/66798654-54852480-eed4-11e9-9a2d-cd0505ca4b6f.png)
 
 =======
