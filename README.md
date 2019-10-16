@@ -12,6 +12,8 @@
 * Mis usuarios son personas de 13 años a más escolares en su mayoría pero en general cualquier persona puede usar esta web  además de enseñar como es el funcionamiento del cifrado, el objetivo concreto de esta web es darle la facilidad al usuario de poder hacer el cifrado y descifrado sin ningún inconveniente, utilizando el número de desplazamiento que el usuario desee y así establecer un espacio de interacción con mis usuarios.
 ## Primer prototipo en papel.
 
+![WhatsApp Image 2019-10-16 at 8 13 22 AM](https://user-images.githubusercontent.com/51058777/66922687-2a735580-efed-11e9-8d47-1c3cf15fe7cb.jpeg)
+
 ## Resumen del feedback recibido indicando las mejoras a realizar:
  - Arreglar el contraste de colores
  - Los botones más juntos
